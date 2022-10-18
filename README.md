@@ -1,4 +1,4 @@
-# Task-List
+# Task List
 
 Task List developed with HTML, CSS and Javascript.
 
