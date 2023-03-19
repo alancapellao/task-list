@@ -1,6 +1,6 @@
 # Task List
 
-To-do list app can be used to organize tasks. 
+Task list app can be used to organize tasks. 
 
 Developed with HTML, CSS and JavaScript.
 
